@@ -1,0 +1,2 @@
+# BLOG-ASSETS
+First commit
